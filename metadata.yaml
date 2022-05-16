@@ -1,11 +1,16 @@
 _repo: The-Yale-Literary-Magazine-Vol-LXXXVIII-No-8_68046
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68046-h/images/cover-back.jpg
 creator:
   author:
     agent_name: (Students of Yale)
     gutenberg_agent_id: '54581'
     url: http://www.gutenberg.org/2009/agents/54581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68046#The-Yale-Literary-Magazine-Vol-LXXXVIII-No-8
 gutenberg_issued: '2022-05-10'
 identifiers:
   gutenberg: '68046'
